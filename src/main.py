@@ -9,7 +9,7 @@ import datetime
 import os
 import sys
 
-sys.path.insert(1, r"C:\Users\parent\Desktop\Coding\Github\project-showface-pw-2023")
+sys.path.insert(1, "C:\\Users\\parent\\Desktop\\Coding\\Github\\project-showface-pw-2023")
 
 scope = [
     'https://www.googleapis.com/auth/drive',
